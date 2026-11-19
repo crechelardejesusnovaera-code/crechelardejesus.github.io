@@ -1,15 +1,15 @@
 SITE CRECHE LAR DE JESUS — ATUALIZAÇÃO DE 19/11/2026
+Pacote sem arquivos ocultos.
 
 COMO ATUALIZAR NO GITHUB
 1. Abra o repositório do site no GitHub.
 2. Clique em "Add file" > "Upload files".
-3. Arraste TODO o conteúdo desta pasta (não a pasta em si).
-   Os arquivos com o mesmo nome são substituídos automaticamente.
+3. Arraste TODO o conteúdo desta pasta (não a pasta em si):
+   index.html, support.js, image-slot.js, fotos-do-site.json, LEIA-ME.txt
+   e as pastas assets, docs e bibliotecas.
 4. Escreva "Atualização 19/11" e clique em "Commit changes".
 5. Aguarde o ✓ verde na aba "Actions" (1 a 3 minutos) e atualize o site com Ctrl+F5.
 
 ATENÇÃO
 - NÃO apague o arquivo "CNAME" do repositório, se existir (é ele que liga o domínio).
-- Os arquivos ".nojekyll" e ".image-slots.state.json" começam com ponto e podem ficar
-  ocultos. Eles PRECISAM ser enviados. Windows: Explorador > Exibir > Itens ocultos.
-  Mac: Cmd + Shift + . (ponto) no Finder.
+- Mantenha os nomes dos arquivos e pastas exatamente como estão.
